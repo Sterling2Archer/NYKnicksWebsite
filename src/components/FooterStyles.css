@@ -1,0 +1,32 @@
+.footer {
+    width: center;
+    text-align: center;
+    padding: 0rem;
+    background: rgba(0,0,0,.8);
+}
+
+.footer p {
+    padding: -2rem;
+    font-size: 2.5rem;
+}
+
+
+.footer h4 {
+    font-size: 2.5rem;
+    color: orange;
+    padding: 0rem 0;
+}
+
+.footer text {
+    font-size: 2.5rem;
+    color: blue;
+    padding: 0rem 0;
+}
+
+
+
+
+
+
+
+
